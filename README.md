@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mutfagin Sefi
 
 Bu oyun, Overcooked tarzı oyun için bir çalışma örneğidir.
@@ -26,3 +27,7 @@ Her bir alt malzemeyi doğru konumlara yerleştirin;
 Prefab To Recipe scriptine sağ tıklayın ve Transfer Ingredients to Tarif seçeneğini seçin;
 
 Son olarak, bu yeni Tarif assetini TarifAyarlari Scriptable Objecti içine ekleyin.
+=======
+# mutfagin_sefi_repo
+Mutfağın Şefi Oyunu
+>>>>>>> 27a1924ffe2762eb57227836d8a68ddeffaba937
